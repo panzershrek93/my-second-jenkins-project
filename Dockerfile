@@ -1,1 +1,2 @@
-FROM alpine:latest CMD echo "Hello, Jenkins!"
+FROM alpine:latest 
+CMD echo "Hello, Jenkins!"
